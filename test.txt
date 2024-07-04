@@ -1,2 +1,3 @@
 hi kabalis
 welcome to git 
+Add the line to different of the diff command
